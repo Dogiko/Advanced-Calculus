@@ -2,6 +2,11 @@
 
 ---
 
-Exercise solution
+### Exercise solution
 
-By Professor 林紹雄 on NTU Math 2005
+---
+### Course info
+
+Professor 林紹雄
+
+NTU Math 2005
