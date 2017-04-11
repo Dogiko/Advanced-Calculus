@@ -14,3 +14,12 @@ We have $P \rightarrow \neg Q$, but we can't get any infomation from $\neg P$.
 In this case, $B$ must resign if $A$ is elected.
 
 ---
+
+### (b) Let $P$, $Q$ and $R$ are three statements. What kind of the connectives should you put in the following question (?) position so that the composite statement becomes a valid conclusion?
+$$((P\Rightarrow \neg Q)\wedge (R \Rightarrow Q)) \Rightarrow P?R$$
+
+Since $(R \Rightarrow Q) \Longleftrightarrow (\neg Q \Rightarrow \neg R)$
+
+We can get $P\Rightarrow \neg Q \Rightarrow \neg R$,
+
+that is $P \rightarrow \leftarrow R$
